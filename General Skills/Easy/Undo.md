@@ -1,7 +1,6 @@
 ![](images/pasted-image-20260809145354.png)
 
-When we put this on the terminal 
-.
+When we put this on the terminal                                                                                                                            
 ![](images/pasted-image-20260809145732.png)
 
 1)  We are already provided with a scrambled/encoded flag 
