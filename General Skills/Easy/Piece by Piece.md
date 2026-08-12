@@ -1,4 +1,4 @@
-![[Pasted image 20260811212041.png|700]]
+![](images/pasted-image-20260811212041.png)
 
 Use this command                                                                                                                                                      
 ```bash 
@@ -6,7 +6,7 @@ ssh ctf-player@dolphin-cove.picoctf.net -p 65191
 ```
 ![](images/pasted-image-20260811212248.png)
 
-![[Pasted image 20260811212317.png|700]]
+![](images/pasted-image-20260811212317.png|700)
 
 ```bash
 ctf-player@pico-chall$ cat instructions.txt 
@@ -22,12 +22,12 @@ Hint:
 we can see the non readable text in those files                                                                                                          
 ![](images/pasted-image-20260811212553.png)
 
-Only the first part is a zip / archive                                                                                     ![[Pasted image 20260811212749.png|700]]
+Only the first part is a zip / archive                                                                                                               ![](images/pasted-image-20260811212749.png|700)
 The `unzip` command suggests that this is a multi part archive                                                                      
-![[Pasted image 20260811213632.png|700]]
+![](images/pasted-image-20260811213632.png|700)
 
 If we do the same to part ab, ac, ad the same message display but when done to part ae 
-![[Pasted image 20260811213815.png|700]]
+![](images/pasted-image-20260811213815.png|700)
 
 so we combine all the parts to a `combined.zip`
 
