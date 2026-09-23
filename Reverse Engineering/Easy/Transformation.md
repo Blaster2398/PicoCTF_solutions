@@ -1,4 +1,4 @@
-![](images/pasted-image-20260919185746.png)
+![](pasted-image-20260919185746.png)
 
 what does enc contain 
 ```bash
@@ -6,7 +6,7 @@ what does enc contain
 ```
 
 explanation for the operations done 
-![](images/pasted-image-20260919185938.png)
+![](pasted-image-20260919185938.png)
 
 so we can reverse this by this python code 
 ```python
@@ -27,4 +27,4 @@ print("Decoded text:", original_flag)
 ```
 
 then you can get the flag 
-![](images/pasted-image-20260919190108.png)
+![](pasted-image-20260919190108.png)
