@@ -119,7 +119,7 @@ V
 
 ```
 
-and when we put the right pass 
+and when we put the right pass                                                                                                                                      
 ![](images/pasted-image-20260927151307.png)
 
 this is what I  get to see when we is the `bvi` 
