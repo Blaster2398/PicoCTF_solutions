@@ -61,7 +61,7 @@ Ok from here I took help from AI
    - First remove the banner with `rm banner`
    - Then create a symlink with `ln -s /root/flag.txt ./banner`
    ![](images/pasted-image-20260923223604.png)
-3) Now we can do a `nc tethys.picoctf.net 63558`
+1) Now we can do a `nc tethys.picoctf.net 63558`                                                                       
    ![](images/pasted-image-20260923223720.png)
 
 The port is removed as my session changed so just use whatever the session port is 
