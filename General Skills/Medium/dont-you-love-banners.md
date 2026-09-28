@@ -1,6 +1,6 @@
 ![](images/pasted-image-20260923212637.png)
 
-This is what you get when you first enter to the netcat 
+This is what you get when you first enter to the netcat                                                                                         
 ![](images/pasted-image-20260923213028.png)
 
 I tried to make the window size smaller so that the full banner wont come in one go which worked in a certain level of `bandit@overthewire` but here it seems it doesn't work.
@@ -19,7 +19,7 @@ The first hint is  if we know about simlinks ??
 ### Symlinks 
 A **symlink** (short for symbolic link) is a special type of file that points to another file or directory on your system. It acts exactly like a **shortcut** in Windows or an alias in macOS.
 
-Symlinks in action 
+Symlinks in action                                                                                                                                                    
 ![](images/pasted-image-20260923214905.png)
 
 ## The second hint 
